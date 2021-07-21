@@ -16,10 +16,7 @@ Adding Support for Generate Report
 Adding Support for Layer-wise Relevance Propagation (e-LRP): image
 Adding Support for Occlusion : image
 Adding Support for Integrated Gradient image and text
-
-Scalable Bayesian Rule Lists
-
-Tree Surrogates
+Adding Support for Scalable Bayesian Rule Lists
 
 
 # Books and blogs
