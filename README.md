@@ -1,5 +1,5 @@
 # DevExplainer
-Framework to explain black box models to increase model transparency using various feature Global and Local Interpretations
+Framework to explain black box models to increase model transparency using various feature Global and Local Interpretations Frameworks
 
 # To Do
 Adding Support to generate PDPs
@@ -17,7 +17,6 @@ Adding Support for Layer-wise Relevance Propagation (e-LRP): image
 Adding Support for Occlusion : image
 Adding Support for Integrated Gradient image and text
 Adding Support for Scalable Bayesian Rule Lists
-
 
 # Books and blogs
 Interpreting predictive models with Skater: Unboxing model opacity
